@@ -1,5 +1,7 @@
 DOMAIN,app.instantly.ai
 DOMAIN,widget.frill.co
+DOMAIN,ws-mt1.pusher.com
+DOMAIN,client.relay.crisp.chat
 DOMAIN-SUFFIX,olegtsvetkov.com
 DOMAIN-SUFFIX,instantly.ai
 DOMAIN-SUFFIX,smartlead.ai
@@ -8,6 +10,9 @@ DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,featurebase-attachments.com
 DOMAIN-SUFFIX,remarketstats.com
 DOMAIN-KEYWORD,instantly
+DOMAIN-SUFFIX,profitwell.com
+DOMAIN-SUFFIX,i.posthog.com
+DOMAIN-SUFFIX,featurebase.app
 #DOMAIN-SUFFIX,
 #DOMAIN-KEYWORD,
 #DOMAIN,
