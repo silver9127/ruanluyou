@@ -14,7 +14,3 @@ DOMAIN-KEYWORD,instantly
 DOMAIN-SUFFIX,profitwell.com
 DOMAIN-SUFFIX,i.posthog.com
 DOMAIN-SUFFIX,featurebase.app
-#DOMAIN-SUFFIX,
-#DOMAIN-KEYWORD,
-#DOMAIN,
-#IP-CIDR,208.54.0.0/16
