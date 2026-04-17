@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,instantly.ai
 DOMAIN-SUFFIX,kajabi.com
 DOMAIN-SUFFIX,clickbank.com
 DOMAIN-SUFFIX,clickbank.net
+DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,smartlead.ai
 DOMAIN-SUFFIX,partnerlinks.io
@@ -19,3 +20,4 @@ DOMAIN-SUFFIX,litix.io
 DOMAIN-KEYWORD,instantly
 DOMAIN-KEYWORD,kajabi
 DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,wise
