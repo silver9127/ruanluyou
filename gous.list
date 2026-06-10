@@ -21,3 +21,8 @@ DOMAIN-SUFFIX,sprint.com
 # T-Mobile ePDG 网关常见IP段
 IP-CIDR,208.54.0.0/16
 IP-CIDR,66.94.0.0/19
+
+# CapCut
+DOMAIN-SUFFIX,capcutcdn-us.com
+DOMAIN-SUFFIX,capcutapi.us
+DOMAIN-SUFFIX,capcutw.us
