@@ -9,10 +9,12 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN-KEYWORD,wise
 DOMAIN-SUFFIX,netscout.com
 DOMAIN-KEYWORD,netscout
+DOMAIN-SUFFIX,okta.com
+DOMAIN-KEYWORD,okta
 DOMAIN-SUFFIX,pennyinyourpocket.com
 DOMAIN-KEYWORD,pennyinyourpocket
-DOMAIN-SUFFIX,global-education-institute.com
-DOMAIN-KEYWORD,global-education-institute
+DOMAIN-SUFFIX,solomoat.com
+DOMAIN-KEYWORD,solomoat
 
 #Affiliate
 DOMAIN-SUFFIX,clickbank.com
