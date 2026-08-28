@@ -1,34 +1,19 @@
 #MyApp
-DOMAIN-SUFFIX,instantly.ai
 DOMAIN-KEYWORD,instantly
-DOMAIN-SUFFIX,kajabi.com
 DOMAIN-KEYWORD,kajabi
-DOMAIN-SUFFIX,zapier.com
 DOMAIN-KEYWORD,zapier
-DOMAIN-SUFFIX,wise.com
-DOMAIN-KEYWORD,wise
-DOMAIN-SUFFIX,netscout.com
 DOMAIN-KEYWORD,netscout
-DOMAIN-SUFFIX,okta.com
 DOMAIN-KEYWORD,okta
-DOMAIN-SUFFIX,pennyinyourpocket.com
 DOMAIN-KEYWORD,pennyinyourpocket
-DOMAIN-SUFFIX,solomoat.com
 DOMAIN-KEYWORD,solomoat
 
 #Affiliate
-DOMAIN-SUFFIX,clickbank.com
 DOMAIN-KEYWORD,clickbank
-DOMAIN-SUFFIX,digistore24.com
 DOMAIN-KEYWORD,digistore24
 DOMAIN-KEYWORD,digistore24-app
-DOMAIN-SUFFIX,jvzoo.com
 DOMAIN-KEYWORD,jvzoo
-DOMAIN-SUFFIX,warriorplus.com
 DOMAIN-KEYWORD,warriorplus
-DOMAIN-SUFFIX,whop.com
 DOMAIN-KEYWORD,whop
-DOMAIN-SUFFIX,hotmart.com
 DOMAIN-KEYWORD,hotmart
 
 #EscapedFish
