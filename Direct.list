@@ -12,9 +12,6 @@ DOMAIN-KEYWORD,doubao
 DOMAIN-KEYWORD,youdao
 DOMAIN-KEYWORD,qianwen
 
-# IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
-
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
@@ -231,13 +228,6 @@ DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
-# Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
@@ -366,7 +356,6 @@ DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,infzm.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,it168.com
@@ -419,7 +408,6 @@ DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,onedns.net
 DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,onlinedown.net
-DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,polyv.net
@@ -476,7 +464,6 @@ DOMAIN-SUFFIX,uxengine.net
 DOMAIN-SUFFIX,videocc.net
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,wandoujia.com
-DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weiphone.com
