@@ -7,7 +7,10 @@ DOMAIN-KEYWORD,okta
 DOMAIN-KEYWORD,pennyinyourpocket
 DOMAIN-KEYWORD,solomoat
 DOMAIN-KEYWORD,gamma
+DOMAIN-KEYWORD,godaddy
 DOMAIN-SUFFIX,fillout.com
+DOMAIN-SUFFIX,schema.org
+
 
 #Affiliate
 DOMAIN-KEYWORD,clickbank
@@ -35,3 +38,5 @@ DOMAIN,widget.frill.co
 DOMAIN,ws-mt1.pusher.com
 DOMAIN,client.relay.crisp.chat
 DOMAIN-SUFFIX,subscribers.com
+DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,transcend-cdn.com
